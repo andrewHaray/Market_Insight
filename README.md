@@ -25,7 +25,7 @@ Market Insight leverages advanced AI agents to deliver real-time stock market in
 ### Prerequisites
 - Python 3.x
 - Node.js (for frontend)
-- OpenAI API key
+- OpenAI API key in .env file
 
 ### Installation
 
